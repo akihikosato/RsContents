@@ -1,10 +1,7 @@
 {
-    "version" : "2.0.0",
     "textVersion" : "0.0.15",
-    "inReview" : 1,
     "formUrl" : "http://goo.gl/forms/JGbf1VfnKm",
     "thanksAlertMsg" : "合格論証集をダウンロードして頂きありがとうございます。\n無料版では各科目10の論証をご覧頂けます。",
-    "storeUrl" : "https://itunes.apple.com/jp/app/heakatarogu/id1050538518?mt=8",
     "purchaseAlert" : "全200種類の論証が掲載されたアップグレード版を1080円で購入しますか？",
     "histories" : ["2016/5/23 ver1.0.5をリリース", "2015/12/3 ver1.0.3をリリース", "2015/11/25 論証を追加", "2015/11/17 ver1.0.2をリリース", "2015/11/10 ver1.0.1をリリース"],
     "textData" : {
